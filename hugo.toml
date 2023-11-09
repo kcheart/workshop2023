@@ -1,0 +1,4 @@
+baseURL = 'https://kcheart.github.io/'
+languageCode = 'en-us'
+title = 'Workshop 2023'
+theme = 'PaperMod'

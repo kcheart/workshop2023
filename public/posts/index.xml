@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Workshop 2023</title>
-    <link>https://kcheart.github.io/posts/</link>
+    <link>https://kcheart.github.io/workshop2023/posts/</link>
     <description>Recent content in Posts on Workshop 2023</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Nov 2023 11:36:03 +0800</lastBuildDate><atom:link href="https://kcheart.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 Nov 2023 11:36:03 +0800</lastBuildDate><atom:link href="https://kcheart.github.io/workshop2023/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test</title>
-      <link>https://kcheart.github.io/posts/test/</link>
+      <link>https://kcheart.github.io/workshop2023/posts/test/</link>
       <pubDate>Thu, 09 Nov 2023 11:36:03 +0800</pubDate>
       
-      <guid>https://kcheart.github.io/posts/test/</guid>
+      <guid>https://kcheart.github.io/workshop2023/posts/test/</guid>
       <description>安裝測試 Hugo Hugo 是使用Go語言編寫的靜態網頁生成器，最大優點是編譯速度極快。 https://gohugo.io/
 https://gohugo.io/getting-started/quick-start/</description>
     </item>

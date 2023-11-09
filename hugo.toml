@@ -1,4 +1,4 @@
-baseURL = 'https://kcheart.github.io/workshop2023'
+baseURL = 'https://kcheart.github.io/workshop2023/'
 languageCode = 'en-us'
 title = 'Workshop 2023'
 theme = 'PaperMod'
